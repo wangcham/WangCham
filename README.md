@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wangcham" alt="wangcham" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/wangcham" target="blank"><img src="https://img.shields.io/twitter/follow/wangcham?logo=twitter&style=for-the-badge" alt="wangcham" /></a> </p>
+<p align="left"> <a href="https://twitter.com/wagcham" target="blank"><img src="https://img.shields.io/twitter/follow/wangcham?logo=twitter&style=for-the-badge" alt="wangcham" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js,Python,Flutter**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wangcham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wangcham" height="30" width="40" /></a>
+<a href="https://twitter.com/wagcham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wangcham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
