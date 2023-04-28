@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm WangCham</h1>
+<h1 align="center">Hi, I'm WangCham</h1>
 <h3 align="center">I Will Follow</h3>
+- I’m currently learning **Vue.js,Python，go**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wangcham" alt="wangcham" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/wagcham" target="blank"><img src="https://img.shields.io/twitter/follow/wangcham?logo=twitter&style=for-the-badge" alt="wangcham" /></a> </p>
-
-- 🌱 I’m currently learning **Vue.js,Python,Flutter**
-
-- 📫 How to reach me **wangcham233@gmail.com**
+- My email **wangcham233@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
