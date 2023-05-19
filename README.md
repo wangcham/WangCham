@@ -8,7 +8,7 @@ If you have some crazy ideas,<br>
 feel free to send email:<br>
 <strong>wangcham233@gmail.com</strong>
 
-## My Technology Stack 🌠
+## My Technology Stacks 🌠
 
 ### Front-end
 - Vue.js
