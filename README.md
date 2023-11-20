@@ -3,8 +3,8 @@
 - 💻 Currently learning **Vue.js** , **Python** , **Golang** , **Rust**
 - 💡 Find joy in actions that contribute to the betterment and beauty of our world.
 - 💎 Doing something useful and trying to avoid wasting time
-- 🎸  I love music,but I still haven't found what I'm looking for
-- 🤖 I aspire to create an AIGC robot, so sometimes I learn about machine learning.
+- 🎸  I love music , but I still haven't found what I'm looking for
+- 🤖 I aspire to create an AIGC robot , so sometimes I learn about machine learning.
 
 ## Make the world a better place
 <h4 align="left">Languages and Tools:</h4>
@@ -26,9 +26,9 @@
 
 
 ## contact me
-- Email: wangcham233@gmail.com
-- QQ: 651122857
-- Twitter: [wangcham](https://twitter.com/wagcham)
+- Email : wangcham233@gmail.com
+- QQ : 651122857
+- Twitter : [wangcham](https://twitter.com/wagcham)
 
 ## Spotify status
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lcllzue4hpsxbe35akz2tltlci)
