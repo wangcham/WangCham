@@ -25,7 +25,7 @@
 </p>
 
 
-## contact me
+## Contact me
 - Email : wangcham233@gmail.com
 - QQ : 651122857
 - Twitter : [wangcham](https://twitter.com/wagcham)
