@@ -30,9 +30,6 @@
 - QQ : 651122857
 - Twitter : [wangcham](https://twitter.com/wagcham)
 
-## Spotify status
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31lcllzue4hpsxbe35akz2tltlci)
-
 
 
 
