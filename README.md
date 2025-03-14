@@ -3,7 +3,7 @@
 💡 **About Me**  
 - 🎓 Researcher / Developer / Open-Source Enthusiast  
 - 🖥️ Passionate about **Python / Vue / AI Software /  Product Design**  
-- 🚀 **Collaborator on [LangBot](https://github.com/rockchinq/langbot)**, working on integrating LLMs with messaging platforms  
+- 🛠️ **Collaborator on [LangBot](https://github.com/rockchinq/langbot)**, working on integrating LLMs with messaging platforms  
 - 🎬 I got fast cars, but I still haven't found what I'm looking for
 
 💼 **What I'm Working On**  
