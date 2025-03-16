@@ -7,7 +7,7 @@
 - 🎬 I got fast cars, but I still haven't found what I'm looking for
 
 💼 **What I'm Working On**  
-- 🤖 **Open-source AI App**, To bring the convenience of AI to the world
+- 🤖 **Open-source AI App**, to bring the convenience of AI to the world
 - 📱 **Focusing on the postgraduate entrance interview preparation**, currently learning basic concepts of CS 
  
 📫 **Contact Me**  
