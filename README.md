@@ -8,7 +8,7 @@
 
 💼 **What I'm Working On**  
 - 🤖 **Open-source AI App**, to bring the convenience of AI to the world
-- 📱 **Focusing on the postgraduate entrance interview preparation**, currently learning basic concepts of CS 
+- 📱 **Currently pursuing a master's degree at Northwest University (China)**, focusing on machine learning 
  
 📫 **Contact Me**  
 - 📮 Email:  wangcham233@gmail.com 
