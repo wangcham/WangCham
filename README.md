@@ -12,8 +12,6 @@
  
 📫 **Contact Me**  
 - 📮 Email:  wangcham233@gmail.com 
-- 🐧 QQ:  [651122857](https://qm.qq.com/q/WI5HieiQ8K)
-- 💬 Wechat:  wangcham233  ( 请注明来意 )
 
 🚀 **To infinity and beyond**
 
